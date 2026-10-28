@@ -39,7 +39,7 @@ export const games: Game[] = [
       { key: "Shift", action: "低速移動" },
       { key: "X" , action: "ボム" }
     ],
-    thumbnailUrl: "/images/tama-ball-thumb.png",
+    thumbnailUrl: "/images/tama-ball/tama-ball-thumb.png",
     previewUrl: ["",],
     gameUrl: "/games/tama-ball/index.html",
   },
@@ -54,7 +54,7 @@ export const games: Game[] = [
       {key: "Shift", action: "低速移動" },
       {key: "X", action: "ボム" }
     ],
-    thumbnailUrl: "/images/fairy-shooting-thumb.png",
+    thumbnailUrl: "/images/fairy-shooting/fairy-shooting-thumb.png",
     previewUrl: ["",],
     gameUrl: "/games/fairy-shooting/index.html",
   }
